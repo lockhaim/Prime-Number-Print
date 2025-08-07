@@ -1,0 +1,5 @@
+[core]
+	editor = \"C:\\Users\\mcvic\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = lockhaim@gmail.com
+	name = Ian Lockhart
